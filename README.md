@@ -4,7 +4,7 @@ Convert Image file to Data URL Scheme.
 
 
 ## url
-http://amaraimusi.sakura.ne.jp/ImageToDataURLScheme/example1.html
+http://amaraimusi.sakura.ne.jp/ImageToDataURLScheme/ImageToDataURLScheme.html
 
 ## info
 version 0.1
